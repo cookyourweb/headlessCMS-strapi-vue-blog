@@ -1,0 +1,122 @@
+
+############################
+# FROTNEND vue.js
+############################
+frontend/.DS_Store
+frontend/node_modules
+frontend//dist
+
+
+# local env files
+frontend/.env.local
+frontend/.env.*.local
+
+# Log files
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+
+# Editor directories and files
+frontend/.idea
+frontend/.vscode
+frontend/*.suo
+frontend/*.ntvs*
+frontend/*.njsproj
+frontend/*.sln
+frontend/*.sw?
+
+############################
+# BACKEND STRAPI
+############################
+
+# OS X
+
+backend/.DS_Store
+backend/.AppleDouble
+backend/.LSOverride
+backend/Icon
+backend/.Spotlight-V100
+backend/.Trashes
+backend/._*
+
+# Linux
+
+backend/*~
+
+# Windows
+
+backend/Desktop.ini
+backend/$RECYCLE.BIN/
+backend/*.cab
+backend/*.msi
+backend/*.msm
+backend/*.msp
+
+# Packages
+
+backend/*.7z
+backend/*.csv
+backend/*.dat
+backend/*.dmg
+backend/*.gz
+backend/*.iso
+backend/*.jar
+backend/*.rar
+backend/*.tar
+backend/*.zip
+backend/*.com
+backend/*.class
+backend/*.dll
+backend/*.exe
+backend/*.o
+backend/*.seed
+backend/*.so
+backend/*.swo
+backend/*.swp
+backend/*.swn
+backend/*.swm
+backend/*.out
+backend/*.pid
+
+# Logs and databases
+
+backend/.tmp
+backend/*.log
+backend/*.sql
+backend/*.sqlite
+backend/*.sqlite3
+
+# Misc.
+
+backend/backend/*#
+backend/ssl
+backend/.idea
+backend/nbproject
+backend/public/uploads/*
+backend/!public/uploads/.gitkeep
+
+# Node.js
+
+backend/lib-cov
+backend/lcov.info
+backend/pids
+backend/logs
+backend/results
+backend/node_modules
+backend/.node_history
+
+# Tests
+
+backend/testApp
+backend/coverage
+
+# Strapi
+
+backend/.env
+backend/license.txt
+backend/exports
+backend/*.cache
+backend/build
+backend/.strapi-updater.json
+
