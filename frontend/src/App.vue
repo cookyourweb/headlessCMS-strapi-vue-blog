@@ -1,13 +1,16 @@
 <template>
-  <div id="app"></div>
+  <div id="app">
+    <Nav />
+  </div>
 </template>
-
 <script>
+import Nav from "./components/Nav.vue";
+
 export default {
-  name: "App"
+  name: "App",
+  components: { Nav }
 };
 </script>
-
 <style lang="css">
 a {
   text-decoration: none;
