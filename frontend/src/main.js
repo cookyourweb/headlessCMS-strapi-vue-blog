@@ -18,7 +18,8 @@ const router = new VueRouter({
   mode: "history",
   routes: [
     {
-      path: "/"
+      path: "/",
+      components: require("./containers/Articles.vue")
     }
   ]
 });

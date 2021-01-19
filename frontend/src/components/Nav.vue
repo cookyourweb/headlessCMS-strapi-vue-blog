@@ -4,7 +4,7 @@
       <div class="uk-navbar-left">
         <ul class="uk-navbar-nav">
           <li>
-            <a href="/">Cookyourweb Blog </a>
+            <a href="/">Home </a>
           </li>
         </ul>
       </div>
