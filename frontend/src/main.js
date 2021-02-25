@@ -20,6 +20,14 @@ const router = new VueRouter({
     {
       path: "/",
       components: require("./containers/Articles.vue")
+    },
+    {
+      path: "/article/:id",
+      components: require("./containers/Article.vue")
+    },
+    {
+      path: "/category/:id",
+      components: require("./containers/Category.vue")
     }
   ]
 });
