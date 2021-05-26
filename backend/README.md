@@ -1,3 +1,8 @@
 # Strapi application
+## Create New project
 
-A quick description of your strapi application
+npx create-strapi-app my-project --quickstart
+npm run strapi install graphql
+
+## Start new project
+npm run develop
