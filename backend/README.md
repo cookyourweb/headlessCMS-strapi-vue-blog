@@ -6,3 +6,8 @@ npm run strapi install graphql
 
 ## Start new project
 npm run develop
+
+## Run project when cloned
+
+npm run build 
+npm start
